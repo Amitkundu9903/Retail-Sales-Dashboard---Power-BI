@@ -22,7 +22,3 @@ The goal of this project is to transform raw retail data into actionable insight
 📷 Dashboard Preview
 
 (https://github.com/user-attachments/assets/8368f8d1-2056-43be-a699-24e3a882ca29)
-
-⭐ Feedback
-
-Feel free to explore the project, provide feedback, and connect with me!
